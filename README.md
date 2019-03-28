@@ -9,5 +9,5 @@
 .csv 파일은 OS별로 설정 코드가 다릅니다. </br>
 주석으로 처리하였으니 참고 바랍니다.</br>
 
-## 원서 깃허브 저잣소 주소
+## 원서 깃허브 저장소 주소
 - https://github.com/okumuralab/RforFun
